@@ -16,6 +16,10 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> " Que la fuerza de Git te acompañe: usa commits sabiamente y evita caer en el lado oscuro de los conflictos de fusión."
+-------
+*Jedi desconocido*
+
 > “Klaatu barada nikto!”
 
 *Klaatu*
